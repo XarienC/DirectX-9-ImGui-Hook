@@ -1,8 +1,17 @@
 # DirectX 9 ImGui Hook
 DirectX 9 Hooking with ImGui Implementation (x64/x86)
 
+- EndScene Hook
 - Present Hook
-- DrawIndexed Hook
+- DrawIndexedPrimitive Hook
+- DrawPrimitive Hook
+- SetTexture Hook
+- Reset Hook
+- SetStreamSource Hook
+- SetVertexDeclaration Hook
+- SetVertexShaderConstantF Hook
+- SetVertexShader Hook
+- SetPixelShader Hook
 
 ```bash
 Supports x64 and x86
