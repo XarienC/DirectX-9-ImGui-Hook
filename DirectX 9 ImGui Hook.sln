@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DirectX 9 ImGui Hook", "DirectX 9 ImGui Hook.vcxproj", "{2E4C1807-5679-4B8E-8478-39D2715BD90E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E4C1807-5679-4B8E-8478-39D2715BD90E}.Debug|x64.ActiveCfg = Debug|x64
+		{2E4C1807-5679-4B8E-8478-39D2715BD90E}.Debug|x64.Build.0 = Debug|x64
+		{2E4C1807-5679-4B8E-8478-39D2715BD90E}.Debug|x86.ActiveCfg = Debug|Win32
+		{2E4C1807-5679-4B8E-8478-39D2715BD90E}.Debug|x86.Build.0 = Debug|Win32
+		{2E4C1807-5679-4B8E-8478-39D2715BD90E}.Release|x64.ActiveCfg = Release|x64
+		{2E4C1807-5679-4B8E-8478-39D2715BD90E}.Release|x64.Build.0 = Release|x64
+		{2E4C1807-5679-4B8E-8478-39D2715BD90E}.Release|x86.ActiveCfg = Release|Win32
+		{2E4C1807-5679-4B8E-8478-39D2715BD90E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E85189E1-A0F0-4CE5-BD8B-764614F3F622}
+	EndGlobalSection
+EndGlobal
